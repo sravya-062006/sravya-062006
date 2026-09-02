@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SRAVYA&fontSize=60&fontColor=00FFC6&animation=twinkling&fontAlignY=45&desc=Electronics%20%26%20Communication%20Engineering%20%7C%20Hardware%20x%20Software&descAlignY=68&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SRAVYA&fontSize=60&fontColor=00FFC6&animation=twinkling&fontAlignY=45&desc=Electronics%20and%20Communication%20Engineering%20%7C%20Hardware%20x%20Software&descAlignY=68&descSize=15"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=00FFC6&center=true&vCenter=true&width=650&lines=Circuits+to+Code+%F0%9F%94%8C;FPGA+%7C+VLSI+%7C+Embedded+Systems;Software+Engineering+%7C+Networking;AI%2FML+for+Hardware+Diagnostics;Turning+Signals+into+Solutions" />
@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/maddula-lakshmi-sravya-2033532a5/"><img src="https://img.shields.io/badge/-LinkedIn-00FFC6?style=flat-square&logo=linkedin&logoColor=0f0c29"/></a>
-<a href="maddulalakshmisravya@gmail.com"><img src="https://img.shields.io/badge/-Email-00FFC6?style=flat-square&logo=gmail&logoColor=0f0c29"/></a>
+<a href="mailto:maddulalakshmisravya@gmail.com"><img src="https://img.shields.io/badge/-Email-00FFC6?style=flat-square&logo=gmail&logoColor=0f0c29"/></a>
 <a href="https://github.com/sravya-062006"><img src="https://img.shields.io/badge/-GitHub-00FFC6?style=flat-square&logo=github&logoColor=0f0c29"/></a>
 </p>
 
@@ -94,8 +94,6 @@ FPGA-accelerated pipeline for real-time health diagnostics.
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-
 
 **⏱️ Transistor-Level Timing Analysis — USB TX FIFO & UART TX Controller**
 Transistor-level CMOS design of a USB TX FIFO and UART TX Controller, with static/dynamic timing analysis, critical-path identification, and optimization for delay, setup/hold margins, and power.
