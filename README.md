@@ -1,5 +1,5 @@
 <!-- ================= HEADER ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SRAVYA&fontSize=60&fontColor=00FFC6&animation=twinkling&fontAlignY=45&desc=Electronics%20%26%20Communication%20Engineering%20|%20Hardware%20x%20Software&descAlignY=68&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SRAVYA&fontSize=60&fontColor=00FFC6&animation=twinkling&fontAlignY=45&desc=Electronics%20%26%20Communication%20Engineering%20%7C%20Hardware%20x%20Software&descAlignY=68&descSize=15"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=00FFC6&center=true&vCenter=true&width=650&lines=Circuits+to+Code+%F0%9F%94%8C;FPGA+%7C+VLSI+%7C+Embedded+Systems;Software+Engineering+%7C+Networking;AI%2FML+for+Hardware+Diagnostics;Turning+Signals+into+Solutions" />
@@ -19,9 +19,9 @@ I'm an ECE student who moves comfortably between **breadboards and codebases**. 
 
 ```
 role        → ECE Student, Aspiring Engineer
-builds_with → C · Python ·Java· Verilog · SystemVerilog · MATLAB
+builds_with → C · Python · Java · Verilog · SystemVerilog · MATLAB
 explores    → FPGA · VLSI · Signal Processing · AI/ML · Networking
-also_does   → Software Engineering  · Network design & troubleshooting
+also_does   → Software Engineering fundamentals · Network design & troubleshooting
 right_now   → Debugging silicon by day, training models by night
 ```
 
@@ -94,6 +94,7 @@ FPGA-accelerated pipeline for real-time health diagnostics.
 </tr>
 <tr>
 <td width="50%" valign="top">
+
 
 
 **⏱️ Transistor-Level Timing Analysis — USB TX FIFO & UART TX Controller**
