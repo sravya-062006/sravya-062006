@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-00FFC6?style=flat-square&logo=linkedin&logoColor=0f0c29"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-00FFC6?style=flat-square&logo=gmail&logoColor=0f0c29"/></a>
+<a href="https://www.linkedin.com/in/maddula-lakshmi-sravya-2033532a5/"><img src="https://img.shields.io/badge/-LinkedIn-00FFC6?style=flat-square&logo=linkedin&logoColor=0f0c29"/></a>
+<a href="maddulalakshmisravya@gmail.com"><img src="https://img.shields.io/badge/-Email-00FFC6?style=flat-square&logo=gmail&logoColor=0f0c29"/></a>
 <a href="https://github.com/sravya-062006"><img src="https://img.shields.io/badge/-GitHub-00FFC6?style=flat-square&logo=github&logoColor=0f0c29"/></a>
 </p>
 
@@ -65,7 +65,7 @@ right_now   → Debugging silicon by day, training models by night
 **🧠 AI-Based Stress Emergency Detection**
 Signal-driven ML system detecting stress/emergency states in real time.
 `Python` `ML` `Signal Processing`
-[→ repo](https://github.com/sravya-062006/REPO_NAME)
+[→ repo](https://github.com/sravya-062006/AI-Based-Cognitive-Stress-and-Emergency-Detection-System-for-Industrial-Workers)
 
 </td>
 <td width="50%" valign="top">
@@ -73,29 +73,16 @@ Signal-driven ML system detecting stress/emergency states in real time.
 **🩺 AI-Based FPGA Health Monitoring**
 FPGA-accelerated pipeline for real-time health diagnostics.
 `Verilog` `FPGA` `AI/ML`
-[→ repo](https://github.com/sravya-062006/REPO_NAME)
+[→ repo](https://github.com/sravya-062006/FPGA-Health-Monitor)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🔩 RTL Design & Verification**
-Digital logic + testbenches in Verilog/SystemVerilog.
-`Verilog` `Digital Design`
-[→ repo](https://github.com/sravya-062006/REPO_NAME)
 
-</td>
-<td width="50%" valign="top">
 
-**📈 Analog Signal Chain Simulation**
-Circuit-level signal processing in Cadence & LTSpice.
-`Cadence` `LTSpice`
-[→ repo](https://github.com/sravya-062006/REPO_NAME)
 
-</td>
-</tr>
-</table>
 
 ---
 
